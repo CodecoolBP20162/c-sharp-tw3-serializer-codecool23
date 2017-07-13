@@ -1,0 +1,9 @@
+E:\serialz\Serialize\Serialize\bin\Release\Serialize.exe.config
+E:\serialz\Serialize\Serialize\bin\Release\Serialize.exe
+E:\serialz\Serialize\Serialize\bin\Release\Serialize.pdb
+E:\serialz\Serialize\Serialize\obj\Release\Serialize.csprojResolveAssemblyReference.cache
+E:\serialz\Serialize\Serialize\obj\Release\Serialize.Form1.resources
+E:\serialz\Serialize\Serialize\obj\Release\Serialize.Properties.Resources.resources
+E:\serialz\Serialize\Serialize\obj\Release\Serialize.csproj.GenerateResource.Cache
+E:\serialz\Serialize\Serialize\obj\Release\Serialize.exe
+E:\serialz\Serialize\Serialize\obj\Release\Serialize.pdb
